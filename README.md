@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Red15Phoenix
+- 👋 Hi, I’m @Joshua
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning php and mysql
+- 🌱 I’m currently remastering css
 - 💞️ I’m looking to collaborate on web geeks
-- 📫 How to reach me on Whatsapp +2349011711786
+- 📫 You can reach me via telvinamin15@gmail.com 
 
 <!---
 Red15Phoenix/Red15Phoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
